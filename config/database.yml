@@ -24,9 +24,9 @@ production:
 
 production:
   adapter: postgresql
-  database: <database_name>
-  username: <username>
-  password: <password>
-  host: <host>
-  port: <port>
+  database: railway
+  username: postgres
+  password: U0aSiCJ25DmINJQwl6F8
+  host: containers-us-west-38.railway.app
+  port: 6676
   pool: 5
