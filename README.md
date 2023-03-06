@@ -34,6 +34,11 @@ N/B:For UPDATE only updates the price only of the furniture
 
 ## Features
 
+    • Users can create accounts and strore the personal information in the database
+    • Existing users in the database can log in and stay persisted in the system untill the logs out.
+    • Users can share their personal blogs and view them later.
+    • Users can perform CRUD operations(create, read, update, delete)
+
 ## How To Run It
 
 ## Live Link
