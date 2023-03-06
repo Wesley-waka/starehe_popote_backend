@@ -21,6 +21,17 @@ N/B:For UPDATE only updates the price only of the furniture
 
 ## Getting Files
 
+    • Fork the repo LINK.
+    • Create a new branch in your terminal (git checkout -b improve-feature)
+    • Install the prerequisites
+    • Make appropriate changes in file(s)
+    • Run the server to see the changes
+    • Add the changes and commit them (git commit -am "Improve App")
+    • Push to the branch (git push origin improve-app)
+    • Create a Pull request
+    • Remember to also for the server from LINK. and run it under its README.md instructions
+    • Open the folder location on terminal and use the following command to run app:
+
 ## Features
 
 ## How To Run It
