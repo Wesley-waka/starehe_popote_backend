@@ -54,7 +54,7 @@ N/B:For UPDATE only updates the price only of the furniture
 
 ## Live Link
 
-    • The front end link :"https://earnest-bunny-6517f4.netlify.app/"
+    • The front end link :"https://earnest-bunny-6517f4.netlify.app/" remember to start the server on your local machine before opening the live link
 
 ## Technologies Used
 
