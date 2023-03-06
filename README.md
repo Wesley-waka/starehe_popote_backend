@@ -10,6 +10,12 @@ This is an e-commerce website (furniture store) that is responsible for performi
 N/B:For UPDATE only updates the price only of the furniture
 
 ## SCREENSHOTS
+![Screenshot 2023-03-06 at 11-06-50 Starehe Popote Furniture](https://user-images.githubusercontent.com/110999866/223063047-3ba5ce6f-ca9e-4228-81ae-2db72442a54d.png)
+![Screenshot 2023-03-06 at 11-07-12 Starehe Popote Furniture](https://user-images.githubusercontent.com/110999866/223063092-c0bc59ef-995e-4e5b-b297-5dbc3d87ab17.png)
+![Screenshot 2023-03-06 at 11-07-24 Starehe Popote Furniture](https://user-images.githubusercontent.com/110999866/223063112-99c8a395-9825-4932-ab48-b931ed0da5f6.png)
+![Screenshot 2023-03-06 at 11-07-46 Starehe Popote Furniture](https://user-images.githubusercontent.com/110999866/223063129-f707ab14-7735-41d3-87a1-ced31671138f.png)
+![Screenshot 2023-03-06 at 11-08-19 Starehe Popote Furniture](https://user-images.githubusercontent.com/110999866/223063186-c7029e81-4039-4890-a39a-a76f685b4605.png)
+
 
 ## SetUp Instruction
 
