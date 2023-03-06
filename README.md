@@ -61,4 +61,6 @@ N/B:For UPDATE only updates the price only of the furniture
 
 ## Contact Information
 
+    • Email : wesley.waka@student.moringaschool.com
+
 ## License
