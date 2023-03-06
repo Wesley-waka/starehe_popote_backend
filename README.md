@@ -41,9 +41,23 @@ N/B:For UPDATE only updates the price only of the furniture
 
 ## How To Run It
 
+    • Open your terminal with CTRL+shift+` combination
+    • install bundles required using "bundle install" command
+    • After installation of the bundle tun the server using "rake server"
+    • Users can perform CRUD operations(create, read, update, delete) on the specific furniture
+
 ## Live Link
 
+    • The front end link :"https://earnest-bunny-6517f4.netlify.app/"
+
 ## Technologies Used
+
+    1. JSX
+    2. CSS
+    3. React
+    4. Json
+    5. React Semantics
+    6. sqlite
 
 ## Contact Information
 
