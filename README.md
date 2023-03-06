@@ -15,6 +15,10 @@ N/B:For UPDATE only updates the price only of the furniture
 
 ## Requirements
 
+-Text editor eg Visual Studio Code
+-Postman API for testing out my API for CRUD functionality
+-Have JSON viewer extension downloaded
+
 ## Getting Files
 
 ## Features
